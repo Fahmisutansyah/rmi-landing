@@ -1,0 +1,19 @@
+{
+  "works": [
+    {
+      "id": "1",
+      "title": "Palm Kernel Shell",
+      "tag": "Screening/Non-screening"
+    },
+    {
+      "id": "2",
+      "title": "Coconut Shell",
+      "tag": "Halved/Chips"
+    },
+    {
+      "id": "3",
+      "title": "Coffee Beans",
+      "tag": "Green Bean"
+    }
+  ]
+}

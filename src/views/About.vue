@@ -1,0 +1,33 @@
+<script setup>
+import { onMounted } from "vue";
+import {
+  Header,
+  Breadcrumb,
+  AboutSection,
+  Counter,
+  // AboutSectionThree,
+  Team,
+  CTA,
+  Clients,
+} from "../components";
+
+onMounted(() => {
+  $("[data-background").each(function () {
+    $(this).css(
+      "background-image",
+      "url( " + $(this).attr("data-background") + "  )"
+    );
+  });
+});
+</script>
+
+<template>
+  <Header />
+  <Breadcrumb />
+  <AboutSection />
+  <Counter />
+  <!-- <AboutSectionThree /> -->
+  <Team />
+  <CTA />
+  <Clients />
+</template>

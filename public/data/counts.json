@@ -1,0 +1,28 @@
+{
+  "counts": [
+    {
+      "id": "1",
+      "number": 9,
+      "project": "Total Suppliers",
+      "suffix": "+"
+    },
+    {
+      "id": "2",
+      "number": 5,
+      "project": "Logistic Partners",
+      "suffix": ""
+    },
+    {
+      "id": "3",
+      "number": 12580,
+      "project": "Products Delivered",
+      "suffix": "mt+"
+    },
+    {
+      "id": "4",
+      "number": 8,
+      "project": "Total Clients",
+      "suffix": "+"
+    }
+  ]
+}
