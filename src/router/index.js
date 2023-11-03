@@ -26,91 +26,91 @@ const routes = [
     name: "home",
     component: Home,
   },
-  {
-    path: "/index-2",
-    name: "home2",
-    component: Home2,
-  },
-  {
-    path: "/index-3",
-    name: "home3",
-    component: Home3,
-  },
+  // {
+  //   path: "/index-2",
+  //   name: "home2",
+  //   component: Home2,
+  // },
+  // {
+  //   path: "/index-3",
+  //   name: "home3",
+  //   component: Home3,
+  // },
   {
     path: "/contact",
     name: "contact",
     component: Contact,
   },
-  {
-    path: "/about",
-    name: "about",
-    component: About,
-  },
-  {
-    path: "/team",
-    name: "team",
-    component: Team,
-  },
-  {
-    path: "/faq",
-    name: "faq",
-    component: Faq,
-  },
-  {
-    path: "/price",
-    name: "price",
-    component: Price,
-  },
-  {
-    path: "/services",
-    name: "services",
-    component: Services,
-  },
-  {
-    path: "/portfolio-standard",
-    name: "portfolioStandard",
-    component: PortfolioStandard,
-  },
-  {
-    path: "/portfolio-slider",
-    name: "portfolioSlider",
-    component: PortfolioSlider,
-  },
-  {
-    path: "/portfolio-gallery",
-    name: "portfolioGallery",
-    component: PortfolioGallery,
-  },
-  {
-    path: "/portfolio/:id",
-    name: "portfolioDetails",
-    component: PortfolioDetails,
-  },
-  {
-    path: "/list-layout-2",
-    name: "portfolioLayout2",
-    component: ListLayout2,
-  },
-  {
-    path: "/list-layout-3",
-    name: "portfolioLayout3",
-    component: ListLayout3,
-  },
-  {
-    path: "/list-layout-4",
-    name: "portfolioLayout4",
-    component: ListLayout4,
-  },
-  {
-    path: "/blogs",
-    name: "blogs",
-    component: Blog,
-  },
-  {
-    path: "/blog/:id",
-    name: "blogDetails",
-    component: BlogDetails,
-  },
+  // {
+  //   path: "/about",
+  //   name: "about",
+  //   component: About,
+  // },
+  // {
+  //   path: "/team",
+  //   name: "team",
+  //   component: Team,
+  // },
+  // {
+  //   path: "/faq",
+  //   name: "faq",
+  //   component: Faq,
+  // },
+  // {
+  //   path: "/price",
+  //   name: "price",
+  //   component: Price,
+  // },
+  // {
+  //   path: "/services",
+  //   name: "services",
+  //   component: Services,
+  // },
+  // {
+  //   path: "/portfolio-standard",
+  //   name: "portfolioStandard",
+  //   component: PortfolioStandard,
+  // },
+  // {
+  //   path: "/portfolio-slider",
+  //   name: "portfolioSlider",
+  //   component: PortfolioSlider,
+  // },
+  // {
+  //   path: "/portfolio-gallery",
+  //   name: "portfolioGallery",
+  //   component: PortfolioGallery,
+  // },
+  // {
+  //   path: "/portfolio/:id",
+  //   name: "portfolioDetails",
+  //   component: PortfolioDetails,
+  // },
+  // {
+  //   path: "/list-layout-2",
+  //   name: "portfolioLayout2",
+  //   component: ListLayout2,
+  // },
+  // {
+  //   path: "/list-layout-3",
+  //   name: "portfolioLayout3",
+  //   component: ListLayout3,
+  // },
+  // {
+  //   path: "/list-layout-4",
+  //   name: "portfolioLayout4",
+  //   component: ListLayout4,
+  // },
+  // {
+  //   path: "/blogs",
+  //   name: "blogs",
+  //   component: Blog,
+  // },
+  // {
+  //   path: "/blog/:id",
+  //   name: "blogDetails",
+  //   component: BlogDetails,
+  // },
 ];
 
 const router = createRouter({
