@@ -12,7 +12,7 @@
           <div class="col-lg-6 col-md-6">
             <h5>Office</h5>
             <p>
-              Jakarta- <br />
+              Jakarta - <br />
               Infiniti Office<br/>
               Jl. Letjen M.T. Haryono No.Kav 10 GF A4/A, <br/> Cawang, Kecamatan Jatinegara <br/> 13330
             </p>
